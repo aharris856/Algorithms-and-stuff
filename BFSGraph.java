@@ -7,7 +7,7 @@ public class BFSGraph{
 @SuppressWarnings("unchecked")
 static class Graph{
 	private int numV; //number of vertices
-	private LinkedList<Integer> adjList[];
+	private LinkedList<Integer> adjList[]; //adjacency List
 
 	//constructor
 	Graph(int numV)
