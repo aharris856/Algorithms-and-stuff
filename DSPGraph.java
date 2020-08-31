@@ -112,6 +112,8 @@ public class DSPGraph{
         		{7, 0, 0, 0, 8, 0, 0, 4, 3},
         		{0, 0, 0, 0, 0, 0, 0, 0, 0},
         		{0, 0, 0, 3, 2, 0, 0, 0, 0}};
+		//print off every shortest path for every vertex to every vertex
+		//note vertex 7 is disconnected (all 0s) 
  		for(int i = 0; i < adjM.length; i++)
  			dijkstra(adjM, i);
 	}
