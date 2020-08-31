@@ -1,4 +1,4 @@
-//Breadth first search graph traversal from given vertex v
+//Breadth first search graph traversal from given starting vertex v
 import java.util.*;
 
 public class BFSGraph{
