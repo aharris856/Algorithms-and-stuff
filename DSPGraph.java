@@ -67,7 +67,7 @@ public class DSPGraph{
 			}
 					
 		}
-		System.out.print("FORMAT:\nv0 -> vd,\tclosest distance,\tRoute / Path");
+		System.out.print("\nv0 -> vd,\tclosest distance,\tRoute / Path\n");
 		//should have poulated solution array
 		printSol(src, shortestD, parents);
 		System.out.println();
