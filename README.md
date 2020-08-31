@@ -5,7 +5,7 @@ Just a few algorithms implemented, unlike my other repositories I am making each
    ### Graph Traversals:  
         BFS [done]  -> XFSGraph.java
         DFS [done]  -> XFSGraph.java  
-        Djikstra's [ ]  
+        Dijkstra's [done] -> DSPGraph.java (Dijstras Shortest Path Graph)  
         A* [ ]
    ### Sorting Algorithms:  
         Quick Sort [ ]  
