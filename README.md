@@ -4,7 +4,7 @@ without needing seperate runfile for all the cases.
 
 ## PLANNED CONTENT:
    ### Graph Traversals:  
-        BFS [done]  
+        BFS [done]  -> BFSGraph.java
         DFS [ ]  
         Djikstra's [ ]  
         A* [ ]
