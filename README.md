@@ -8,6 +8,6 @@ Just a few algorithms implemented, unlike my other repositories I am making each
         Dijkstra's [COMPLETE] -> DSPGraph.java (Dijstras Shortest Path Graph)  
    ### Sorting Algorithms:  
         Quick Sort [COMPLETE] -> QuickSort.java  
-        Merge Sort [ NOT STARTED ]  
+        Merge Sort [COMPLETE] -> MergeSort.java
         Radix Sort [ NOT STARTED ]  
  
