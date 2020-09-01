@@ -3,12 +3,12 @@ Just a few algorithms implemented, unlike my other repositories I am making each
 
 ## PLANNED CONTENT:
    ### Graph Traversals:  
-        BFS [done]  -> XFSGraph.java
-        DFS [done]  -> XFSGraph.java  
-        Dijkstra's [done] -> DSPGraph.java (Dijstras Shortest Path Graph)  
-        A* [ ]
+        BFS [COMPLETE]  -> XFSGraph.java
+        DFS [COMPLETE]  -> XFSGraph.java  
+        Dijkstra's [COMPLETE] -> DSPGraph.java (Dijstras Shortest Path Graph)  
+        A* [ NOT STARTED ]
    ### Sorting Algorithms:  
-        Quick Sort [ ]  
-        Merge Sort [ ]  
-        Radix Sort [ ]  
+        Quick Sort [ NOT STARTED ]  
+        Merge Sort [ NOT STARTED ]  
+        Radix Sort [ NOT STARTED ]  
  
