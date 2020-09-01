@@ -160,6 +160,7 @@ public class XFSGraph{
 			startMenu();
 			return;
 		}
+		kb.close();
 		//if 1 -> bfs(entryVal) else dfs(entryVal) >>> Entry val = starting vertex
 		if(entry1.equals("1")){
 			System.out.println("BFS Traversal starting at node "+entryVal);
