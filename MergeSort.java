@@ -67,7 +67,7 @@ public class MergeSort{
 		if(args.length < 1){
 
 			Scanner kb = new Scanner(System.in);
-			System.out.println("Enter a list of ints to sort (Seperate each int with a space)");
+			System.out.println("Enter a list of ints to Merge sort (Seperate each int with a space)");
 			String input = kb.nextLine();
 			kb.close();
 			String[] arrStr = input.split("\\s+");
