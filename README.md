@@ -9,5 +9,5 @@ Just a few algorithms implemented, unlike my other repositories I am making each
    ### Sorting Algorithms:  
         Quick Sort [COMPLETE] -> QuickSort.java  
         Merge Sort [COMPLETE] -> MergeSort.java
-        Radix Sort [ NOT STARTED ]  
+        Radix Sort [COMPLETE] -> RadixSort.java  
  
