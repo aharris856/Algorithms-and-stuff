@@ -6,7 +6,6 @@ Just a few algorithms implemented, unlike my other repositories I am making each
         BFS [COMPLETE]  -> XFSGraph.java
         DFS [COMPLETE]  -> XFSGraph.java  
         Dijkstra's [COMPLETE] -> DSPGraph.java (Dijstras Shortest Path Graph)  
-        A* [NOT STARTED] 
    ### Sorting Algorithms:  
         Quick Sort [COMPLETE] -> QuickSort.java  
         Merge Sort [COMPLETE] -> MergeSort.java
